@@ -1,0 +1,110 @@
+[18-Aug-2022 19:57:20 UTC] PHP Warning:  Use of undefined constant gamer_name - assumed 'gamer_name' (this will throw an Error in a future version of PHP) in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 4
+[18-Aug-2022 20:17:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 11
+[18-Aug-2022 20:24:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 11
+[18-Aug-2022 20:24:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 11
+[18-Aug-2022 20:26:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 11
+[18-Aug-2022 20:28:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 11
+[18-Aug-2022 20:28:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 11
+[18-Aug-2022 20:28:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 11
+[18-Aug-2022 20:28:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 3
+[18-Aug-2022 20:28:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 3
+[18-Aug-2022 20:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 3
+[18-Aug-2022 20:29:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 3
+[18-Aug-2022 20:33:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 3
+[18-Aug-2022 20:33:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 3
+[18-Aug-2022 20:34:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 3
+[18-Aug-2022 20:34:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/game_score.php on line 3
+[18-Sep-2022 12:21:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_current_user_id() in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 8
+[18-Sep-2022 12:27:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 14
+[18-Sep-2022 12:34:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 14
+[18-Sep-2022 12:39:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 12:40:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 12:40:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 12:41:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 12:55:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 12:55:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 12:56:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 12:57:35 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 32
+[18-Sep-2022 12:58:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 12:58:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 13:06:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 13:09:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 13:14:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 13:20:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 13:31:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 17:29:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 17:29:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 153
+[18-Sep-2022 17:30:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 17:32:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 153
+[18-Sep-2022 17:34:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 17:34:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 153
+[18-Sep-2022 17:37:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 17:37:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 153
+[18-Sep-2022 17:41:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 17:41:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 153
+[18-Sep-2022 17:46:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1461
+[18-Sep-2022 17:46:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php:2) in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 26
+[20-Sep-2022 11:14:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 178
+[20-Sep-2022 14:15:46 Europe/Moscow] База данных WordPress возвратила ошибку Unknown column 'id' in 'where clause' в ответ на запрос 
+            DELETE FROM wp_mytable_authors_topics
+            WHERE id = '62'
+            
+[22-Sep-2022 22:36:06 Europe/Moscow] PHP Warning:  unlink(/home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/assets/img/uploads/): Is a directory in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 192
+[22-Sep-2022 22:38:01 Europe/Moscow] PHP Warning:  unlink(/home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/assets/img/uploads/): Is a directory in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 192
+[22-Sep-2022 22:39:21 Europe/Moscow] PHP Warning:  unlink(/home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/assets/img/uploads/): Is a directory in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 192
+[13-Oct-2022 15:43:27 Europe/Moscow] PHP Warning:  unlink(/home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/assets/img/uploads/): Is a directory in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 192
+[24-Oct-2022 19:37:15 Europe/Moscow] PHP Warning:  unlink(/home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/assets/img/uploads/): Is a directory in /home/s109806/public_html/alfa-greek.ru/wp-content/themes/alfa-greek/upload.php on line 192
